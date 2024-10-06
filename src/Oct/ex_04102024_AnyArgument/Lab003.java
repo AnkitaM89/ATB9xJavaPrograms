@@ -5,6 +5,6 @@ public class Lab003 {
         /*We can use any argument name in place of args.Here we have used ankita.
         *Check Hello Ankita
          */
-        System.out.println("Hello Sangeeta.");
+        System.out.println("Hello Ankita.");
     }
 }
