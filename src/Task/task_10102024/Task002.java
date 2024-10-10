@@ -6,7 +6,7 @@ public class Task002 {
         int decVal = 26;          // Decimal value
         int octVal = 032;            // Octal literal (equal to decimal 26)
         int hexVal = 0x1a;             // Hexadecimal literal (equal to decimal 26)
-        int binVal = 0b11010;        // Binary literal (equal to decimal 2)
+        int binVal = 0b11010;        // Binary literal (equal to decimal 26)
 
         // Floating-point literals
         double doubleVal = 643.89;          // Double literal
